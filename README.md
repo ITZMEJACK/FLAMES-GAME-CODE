@@ -55,14 +55,6 @@ Enter the second name: Jane
 Relationship Prediction: Love
 ```
 
-## Contributing
-
-If you would like to contribute to the development of this Flames game or have suggestions for improvement, please follow the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - The Flames algorithm used in this game is a popular concept and widely known.
